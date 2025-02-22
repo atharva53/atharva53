@@ -23,14 +23,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharva53&show_icons=true&theme=github_dark" width="400px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharva53&theme=github-dark" width="400px" />
-</p>
-
-
 <!-- Projects Section -->
 ## 🌟 Featured Projects  
 🔹 [📸 Photographer Website](https://github.com/atharva53/Photographer_WebServices.git)  
