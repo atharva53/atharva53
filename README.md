@@ -2,10 +2,6 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/atharva53">Atharva Mhetre</a> 👋</h1>
 <h3 align="center">🚀 Web Developer | 💡 Tech Enthusiast | 🎨 UI/UX Lover</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=0e75b6&style=flat" alt="yourusername" />
-</p>
-
 <!-- About Me Section -->
 ## 🙋‍♂️ About Me  
 - 🔭 I’m currently working on **Exciting Web Projects**  
@@ -30,15 +26,10 @@
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark" width="400px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atharva53&show_icons=true&theme=github_dark" width="400px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharva53&theme=github-dark" width="400px" />
 </p>
 
-<!-- Top Languages -->
-## 📌 Most Used Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark" width="400px" />
-</p>
 
 <!-- Projects Section -->
 ## 🌟 Featured Projects  
