@@ -24,7 +24,8 @@
 <!-- Projects Section -->
 ## 🌟 Featured Projects  
 🔹 [📸 Photographer Website](https://github.com/atharva53/Photographer_WebServices.git)  
-🔹 [🌱 Online Plant Nursery](https://github.com/atharva53/Online-Plant-Nursery.git)  
+🔹 [🌱 Online Plant Nursery](https://github.com/atharva53/Online-Plant-Nursery.git)</br>
+🔹 [🚀 TalentTrail – Smart Job Platform ](https://github.com/atharva53/TalentTrail-Smart-Job-Platform)
 
 
 <!-- Social Media -->
